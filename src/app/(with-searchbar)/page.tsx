@@ -1,6 +1,6 @@
-import ClientComponent from '@/app/(with-searchbar)/client-compent';
+import ClientComponent from '@/app/components/client-component';
 import styles from './page.module.css';
-import ServerComponent from '@/app/(with-searchbar)/server-component';
+import ServerComponent from '@/app/components/server-component';
 
 export default function Home() {
   return (
